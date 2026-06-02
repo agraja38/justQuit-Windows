@@ -1,7 +1,7 @@
 {
-  "version": "1.2.24",
+  "version": "1.2.25",
   "downloadUrl": "https://raw.githubusercontent.com/agraja38/app-update-feeds/main/justquit-windows/justQuit-Setup-x64.exe",
-  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/justquit-windows-v1.2.24",
+  "releaseNotesUrl": "https://github.com/agraja38/app-update-feeds/releases/tag/justquit-windows-v1.2.25",
   "notes": "Compatibility feed for older Windows builds. Installs the current justQuit Windows release.",
-  "sizeBytes": 49318823
+  "sizeBytes": 49312619
 }
